@@ -1,0 +1,1235 @@
+{
+  "mc-nav": {
+    "official": [
+      {
+        "icon": "/MinecraftHub/img/mc-nav-1001.png",
+        "name": "Minecraft",
+        "abstract": "Minecraft我的世界官方网站",
+        "link": "https://www.minecraft.net/"
+      },
+      {
+        "icon": "/MinecraftHub/img/mc-nav-1002.jpg",
+        "name": "网易我的世界",
+        "abstract": "网易我的世界官方网站",
+        "link": "https://mc.163.com/"
+      },
+      {
+        "icon": "/MinecraftHub/img/mc-nav-1003.png",
+        "name": "Minecraft Classic",
+        "abstract": "Cassic经典原始网页版Minecraft在线游戏",
+        "link": "https://classic.minecraft.net/"
+      },
+      {
+        "icon": "/MinecraftHub/img/mc-nav-1004.png",
+        "name": "Mojang Jira",
+        "abstract": "Mojang官方Bug反馈/提交建议",
+        "link": "https://bugs.mojang.com/"
+      },
+      {
+        "icon": "/MinecraftHub/img/mc-nav-1005.png",
+        "name": "FindMCServer",
+        "abstract": "官方Minecraft服务器列表",
+        "link": "https://findmcserver.com/"
+      },
+      {
+        "icon": "https://mc.netease.com/favicon.ico",
+        "name": "网易我的世界论坛",
+        "abstract": "中国版官方论坛",
+        "link": "https://mc.netease.com/"
+      }
+    ],
+    "community": [
+      {
+        "name": "MineBBS",
+        "icon": "/MinecraftHub/img/mc-nav-2001.jpg",
+        "abstract": "我的世界中文论坛",
+        "link": "https://www.minebbs.com/"
+      },
+      {
+        "name": "苦力怕论坛 KLPBBS",
+        "icon": "https://klpwiki.com/favicon.ico",
+        "abstract": "我的世界苦力怕论坛",
+        "link": "https://klpbbs.com/"
+      },
+      {
+        "name": "MCBBS纪念版",
+        "abstract": "Minecraft中文论坛",
+        "link": "https://www.mcbbs.co/"
+      },
+      {
+        "name": "MCFlare论坛",
+        "abstract": "一个新兴的Minecraft技术交流社区",
+        "link": "https://forum.mcflare.com/"
+      },
+      {
+        "name": "最MC论坛",
+        "abstract": "一个服务于《我的世界》（Minecraft）中文玩家及服务器运营者的综合社区平台",
+        "link": "https://www.zuimc.com/"
+      },
+      {
+        "name": "Bangbang93论坛",
+        "abstract": "十分著名的下载源国内镜像站 BMCLAPI",
+        "link": "https://www.bangbang93.com/"
+      },
+      {
+        "name": "小僵尸论坛",
+        "abstract": "国内的我的世界中文论坛",
+        "link": "https://www.zitbbs.com/"
+      },
+      {
+        "name": "himc论坛",
+        "abstract": "国内的我的世界中文论坛，主营java版",
+        "link": "https://www.himcbbs.com/"
+      },
+      {
+        "name": "UTCBBS",
+        "abstract": "一个专门讨论Minecraft游戏Java版本的论坛",
+        "link": "https://bbs.mcutc.cn/"
+      },
+      {
+        "name": "我的世界黑曜石论坛",
+        "abstract": "一个国内新兴的论坛，主营java版",
+        "link": "https://mcobs.cn/"
+      },
+      {
+        "name": "Minecraft Forum",
+        "abstract": "Minecraft原官方论坛",
+        "link": "https://www.minecraftforum.net/"
+      },
+      {
+        "name": "Minecraft-HK",
+        "abstract": "我的世界香港社区",
+        "link": "https://www.minecraft-hk.com/"
+      },
+      {
+        "name": "我的世界教育版中文论坛",
+        "abstract": "在课程中融入寓教于乐的体验，让学生乐“学”其中",
+        "link": "https://www.mceebbs.com/"
+      },
+      {
+        "name": "Minecraft吧",
+        "abstract": "百度minecraft吧",
+        "link": "https://tieba.baidu.com/minecraft"
+      }
+    ],
+    "encyclopedia": [
+      {
+        "name": "中文 Minecraft Wiki",
+        "abstract": "Minecraft最著名、最权威的非官方百科网站",
+        "link": "https://zh.minecraft.wiki/"
+      },
+      {
+        "name": "我的世界玩家WIKI",
+        "abstract": "Bilibili玩家攻略WIKI",
+        "link": "https://wiki.biligame.com/mcplayer/"
+      },
+      {
+        "name": "MCBE 官方创作者文档",
+        "abstract": "微软官方MCBE创作者文档",
+        "link": "https://learn.microsoft.com/minecraft/creator/?view=minecraft-bedrock-stable"
+      },
+      {
+        "name": "MCMOD",
+        "abstract": "Minecraft中文Mod百科",
+        "link": "https://www.mcmod.cn/"
+      },
+      {
+        "name": "基岩版开发Wiki",
+        "abstract": "Minecraft基岩版开发WIki",
+        "link": "https://wiki.mcbe-dev.net/"
+      },
+      {
+        "name": "DigMinecraft",
+        "abstract": "一个强大的MC百科平台",
+        "link": "https://www.digminecraft.com/"
+      },
+      {
+        "name": "Minecraft Parkour Wiki",
+        "abstract": "一个记录 Minecraft 跑酷知识以及玩家运动机制的 wiki",
+        "link": "https://www.mcpk.wiki/wiki/Main_Page/zh"
+      },
+      {
+        "name": "Bedrock Wiki",
+        "abstract": "一个基岩技术的知识分享网站，包含文档、教程和一般的操作信息。",
+        "link": "https://wiki.bedrock.dev/"
+      },
+      {
+        "name": "Minecraft插件百科",
+        "abstract": "服务器插件百科Wiki",
+        "link": "https://mineplugin.org/"
+      },
+      {
+        "name": "NitWikit 笨蛋文档",
+        "abstract": "详细且全面的开服教程",
+        "link": "https://nitwikit.8aka.org/"
+      },
+      {
+        "name": "MC都市传说百科",
+        "abstract": "MC阴间玩意儿大合集",
+        "link": "https://minecraftcreepypasta.fandom.com/wiki/Category:Browse"
+      }
+    ],
+    "tools": [
+      {
+        "name": "NameMC",
+        "abstract": "用户名历史与皮肤查询",
+        "link": "https://namemc.com/"
+      },
+      {
+        "name": "MCID",
+        "abstract": "查询游戏物品的各个版本的ID",
+        "link": "http://mcid.lingningyu.cn/"
+      },
+      {
+        "name": "LittleSkin",
+        "abstract": "知名老牌皮肤站，海量皮肤和披风",
+        "link": "https://littleskin.cn/?ref=mcnav"
+      },
+      {
+        "name": "Code.org Minecraft",
+        "abstract": "海外MC可视化编程平台",
+        "link": "https://code.org/minecraft"
+      },
+      {
+        "name": "Pixilart",
+        "abstract": "在线像素画工具",
+        "link": "https://www.pixilart.com/"
+      },
+      {
+        "name": "Minecraft Skin Search",
+        "abstract": "一个根据用户名查询皮肤的网站",
+        "link": "https://mcskinsearch.com/"
+      },
+      {
+        "name": "Microsoft MakeCode for Minecraft",
+        "abstract": "微软MakeCode项目的MC版，代码制作器",
+        "link": "https://minecraft.makecode.com/"
+      },
+      {
+        "name": "Minecraft Servers",
+        "abstract": "国外较为有名的服务器列表站",
+        "link": "https://minecraftservers.org/"
+      },
+      {
+        "name": "MCRMB",
+        "abstract": "自动处理服务器捐助",
+        "link": "http://www.mcrmb.com/"
+      },
+      {
+        "name": "MinecraftTools",
+        "abstract": "各种MC工具合集",
+        "link": "https://minecraft.tools/"
+      },
+      {
+        "name": "HelloSkin皮肤站",
+        "abstract": "免费、快捷的MC皮肤站",
+        "link": "https://helloskin.cn/"
+      },
+      {
+        "name": "GetBukkit",
+        "abstract": "快捷获取Bukkit及Spigot",
+        "link": "https://getbukkit.org/"
+      },
+      {
+        "name": "ChunkBase",
+        "abstract": "区块查询/种子地图",
+        "link": "https://www.chunkbase.com/apps/"
+      },
+      {
+        "name": "2M短域名",
+        "abstract": "公益、免费、简单的Minecraft短域名获取工具",
+        "link": "https://2m.pub/"
+      },
+      {
+        "name": "我的世界服务器查询网",
+        "abstract": "我的世界服务器查询网，这是Minecraft服务器状态查询网站，这里可以查询到来自全球各地大部分我的世界服务器",
+        "link": "https://list.mczfw.cn/"
+      },
+      {
+        "name": "TextCraft",
+        "abstract": "MC风格文字Logo生成网站",
+        "link": "https://textcraft.net/"
+      },
+      {
+        "name": "sandclocks",
+        "abstract": "一个自制数据包的网站",
+        "link": "https://www.sandclocks.cn/"
+      },
+      {
+        "name": "Seeder",
+        "abstract": "快速查询种子地图/结构位置",
+        "link": "https://www.mcseeder.com/"
+      },
+      {
+        "name": "Spritecraft",
+        "abstract": "生成像素画",
+        "link": "https://autosaved.org/Spritecraft"
+      },
+      {
+        "name": "PocketMine Tools",
+        "abstract": "支持打包解包、API注入、Poggit检索等各种各样PM功能！",
+        "link": "https://pmt.nathfreder.dev/"
+      },
+      {
+        "name": "PHAR 在线存档",
+        "abstract": "在线phar打包解包服务",
+        "link": "https://phar.scer.io/"
+      },
+      {
+        "name": "NovaSkin",
+        "abstract": "自定义皮肤生成壁纸",
+        "link": "http://minecraft.novaskin.me/wallpapers"
+      },
+      {
+        "name": "MC Map Item Tool",
+        "abstract": "想在 Minecraft 地图上拥有自己的图像？只需使用这个工具！",
+        "link": "https://mc-map.djfun.de/#"
+      },
+      {
+        "name": "MCUUID",
+        "abstract": "查找、转换和解析 Minecraft 用户名和 UUID 的最简单方式！",
+        "link": "https://mcuuid.net/"
+      },
+      {
+        "name": "McSounds",
+        "abstract": "丰富的MC音效在线收听！",
+        "link": "http://o.xbottle.top/mcsounds/"
+      },
+      {
+        "name": "Minotar",
+        "abstract": "非常快速和简单的 Minecraft 头像 API",
+        "link": "https://minotar.net/"
+      },
+      {
+        "name": "MapartCraft",
+        "abstract": "像素画生成器",
+        "link": "https://rebane2001.com/mapartcraft/zh-Hans"
+      },
+      {
+        "name": "Minecraft Heads",
+        "abstract": "MC装饰头颅收集站，Minecraft Heads是一个有趣的网站，它收集了大量Minecraft装饰性头颅",
+        "link": "https://minecraft-heads.com/"
+      },
+      {
+        "name": "GameGeeks",
+        "abstract": "一个有很多实用工具的minecraft站",
+        "link": "https://www.gamergeeks.net/apps/minecraft"
+      },
+      {
+        "name": "MCCAG",
+        "abstract": "轻松制作出可爱的MC头像",
+        "link": "https://mccag.cn/"
+      },
+      {
+        "name": "Celestia Skin",
+        "abstract": "多年历史的皮肤站，长期运营，快如闪电！",
+        "link": "https://celestia.skin/"
+      },
+      {
+        "name": "Colorize FUN",
+        "abstract": "Minecraft像素风格多彩文本生成器，一个简单好用、功能强大的Minecraft像素风格多彩文本生成器",
+        "link": "https://colorize.fun/minecraft"
+      },
+      {
+        "name": "BedRock Dev",
+        "abstract": "一个简洁好用的Minecraft基岩版文档站",
+        "link": "https://bedrock.dev/"
+      },
+      {
+        "name": "BlackBE",
+        "abstract": "我的世界基岩版云黑名单系统",
+        "link": "https://blackbe.work/"
+      },
+      {
+        "name": "MC.JS 网页版 MC 中文优化版",
+        "abstract": "在临时电脑上快速体验 MC 中文版，不用下载直接玩！",
+        "link": "https://www.mc.js.cool/"
+      },
+      {
+        "name": "mclo.gs MC日志分析",
+        "abstract": "快速分析你的各类MC错误日志！",
+        "link": "https://mclo.gs/"
+      },
+      {
+        "name": "Webmc Launcher",
+        "abstract": "简洁好用的网页版MC",
+        "link": "https://webmc.xyz/"
+      },
+      {
+        "name": "Seed Map Viewer",
+        "abstract": "在线Minecraft种子地图查看器和种子查找器",
+        "link": "https://mcseedmap.net/"
+      },
+      {
+        "name": "Minecraft艺术",
+        "abstract": "为你快速生成各种MC艺术作品，辅助制作像2D素画、3D雕像、以及红石音乐",
+        "link": "https://mcpixelart.com/"
+      },
+      {
+        "name": "Custom Totem Skin",
+        "abstract": "一个制作不死图腾材质包的网站",
+        "link": "https://spea.cc/totem/"
+      },
+      {
+        "name": "Minecraft Skins",
+        "abstract": "有着丰富的皮肤资源，以及一些使用的皮肤工具",
+        "link": "https://mcskins.top/"
+      },
+      {
+        "name": "3D Minecraft 风格 Logo 生成",
+        "abstract": "3D Minecraft 风格 Logo 生成，一个可以便捷生成 3D Minecraft 风格 Logo 的网站",
+        "link": "https://3dtext.easecation.net/"
+      },
+      {
+        "name": "Minecraft PFP",
+        "abstract": "一个开源的MC像素头像生成器，可以切换背景，保存到电脑或者下载",
+        "link": "https://www.minecraftpfp.com/"
+      },
+      {
+        "name": "Minecraft Server Status",
+        "abstract": "快速获取任何Minecraft服务器的状态",
+        "link": "https://mcstatus.io/"
+      },
+      {
+        "name": "方块字标志牌生成器",
+        "abstract": "为告示牌文字生成较大的字体，还在因为看不清告示牌上蚂蚁般的字而烦恼？这个网站可以解决这个困扰玩家许久的问题！",
+        "link": "https://kqakqakqa.github.io/utf-block-sign-art/"
+      },
+      {
+        "name": "SkinMC",
+        "abstract": "我的世界皮肤检索平台",
+        "link": "https://skinmc.net/"
+      },
+      {
+        "name": "ArmorTrims",
+        "abstract": "盔甲纹饰预览，可以预览盔甲锻造纹饰",
+        "link": "https://armortrims.com/"
+      },
+      {
+        "name": "MC 服务器状态查询",
+        "abstract": "一个强大的Minecrft服务器状态查询工具站",
+        "link": "https://motd.minebbs.com/"
+      },
+      {
+        "name": "McIcons",
+        "abstract": "minecraft图像下载网站，MCICONS是一个丰富的MC图库网站。在这里，你不仅可以下载到原版MC及其衍生作的物品、结构、标题以及背景板等等的图标，而且还可以自定义编辑图像和MC皮肤图像渲染然后获取相关图像",
+        "link": "https://mcicons.ccleaf.com/"
+      },
+      {
+        "name": "GMCT 我的世界命令生成器",
+        "abstract": "甘小蔗我的世界命令生成器，我的世界命令生成器，支持自定义背景，更新成书 JON 与实体骑乘!深色主题支持，再也不怕亮瞎眼啦!",
+        "link": "https://mc.metamo.cn/gmct/?v=5.3"
+      },
+      {
+        "name": "flags.sh",
+        "abstract": "Java 版服务器生成启动脚本，flags.sh.cn 为你的 Minecraft Java 版服务器生成启动脚本。它具有上手即用的简单配置、许多用于优化的参数类型和预制的参数！",
+        "link": "http://flags.sh.cn/"
+      },
+      {
+        "name": "Minecraft Skin Editor",
+        "abstract": "简洁易用的在线皮肤编辑器！在这里，您可以免费编辑或下载Minecraft的皮肤。 在该网站上，您不仅可以为Minecraft创建皮肤，还可以与我们的大型游戏社区共享您的皮肤。",
+        "link": "https://minecraft-skin-editor.com/cn/"
+      },
+      {
+        "name": "Aternos 免费服务器",
+        "abstract": "一个制作服务器的网站，有点卡，只有性能好的人才能承受",
+        "link": "https://aternos.org/:zh-CN/"
+      },
+      {
+        "name": "MC Map Item Tool",
+        "abstract": "通过地图来实现在我的世界中的自定义图片！使用图片生成Minecraft地图！",
+        "link": "https://mc-map.djfun.de/"
+      },
+      {
+        "name": "史莱姆区块查找",
+        "abstract": "还在为找不到史莱姆区块烦恼？这个网站为你解决问题!",
+        "link": "https://mclt.cn/"
+      },
+      {
+        "name": "UUID生成器",
+        "abstract": "一款简单好用的UUID 生成器。",
+        "link": "https://uuid.yunser.com/gen/"
+      },
+      {
+        "name": "MCBEID表",
+        "abstract": "一款可以查询 Minecraft 基岩版命令相关ID的网站",
+        "link": "https://ca.projectxero.top/idlist/"
+      }
+    ],
+    "software": [
+      {
+        "name": "Sakura Frp",
+        "abstract": "好用的内网穿透，这是一位叫 Akkariin 的大佬开发的作品。并它为用户提供类似花生壳、路由侠的内网穿透服务，并且免费。它可以帮助我们用自己的家用宽带来搭建服务器、创办网站，或是用于远程管理家中的设备",
+        "link": "https://www.natfrp.com/"
+      },
+      {
+        "name": "OptFine",
+        "abstract": "MC显示优化模组，OptiFine 是一个 Minecraft 优化模组。它允许 Minecraft 运行得更快，看起来更好，完全支持高清纹理和许多配置选项。",
+        "link": "https://optifine.net/"
+      },
+      {
+        "name": "WorldPainter",
+        "abstract": "MC地形制作软件，WorldPainter 是 Minecraft 的交互式地图生成器。它允许您使用与常规绘画程序类似的工具“绘制”风景",
+        "link": "https://www.worldpainter.net/"
+      },
+      {
+        "name": "Replay Mod 录像回放",
+        "abstract": "一个 Minecraft Mod，用于记录、重温和分享您的体验。",
+        "link": "https://www.replaymod.com/"
+      },
+      {
+        "name": "Radmin LAN",
+        "abstract": "类似hamachi的虚拟局域网软件，同一局域网支持100台设备。",
+        "link": "https://www.radmin.com/"
+      },
+      {
+        "name": "Panda Frp",
+        "abstract": "免费的Frp内网穿透",
+        "link": "https://tryzth.com/"
+      },
+      {
+        "name": "木韩内网穿透",
+        "abstract": "免费的frp内网穿透网站，一共22个免费节点，公益frp内网穿透软件",
+        "link": "https://muhanfrp.cn/"
+      },
+      {
+        "name": "MCEdit",
+        "abstract": "MC存档世界编辑器，MCEdit是一个为Minecraft保存的游戏编辑器。",
+        "link": "https://www.mcedit.net/"
+      },
+      {
+        "name": "Mine-imator",
+        "abstract": "MC动画制作软件",
+        "link": "https://www.mineimator.com/"
+      },
+      {
+        "name": "MCreator",
+        "abstract": "模组制作软件，MCreator 是开源软件，用于使用直观易学的界面或集成代码编辑器制作 Minecraft Java 版模组、基岩版附加组件和数据包。",
+        "link": "https://mcreator.net/"
+      },
+      {
+        "name": "Hamachi",
+        "abstract": "组建虚拟局域网，Hamachi是一种桌面工具，可在多个远程计算机之间创建和管理 VPN（虚拟专用网络）。",
+        "link": "https://hamachi.en.softonic.com/"
+      },
+      {
+        "name": "Amulate 世界编辑器",
+        "abstract": "新时代MC世界编辑、转换器， 支持自 Java 1.12 和基岩 1.7 以来的每一个版本。",
+        "link": "https://www.amuletmc.com/"
+      },
+      {
+        "name": "Universal Minecraft Tool",
+        "abstract": "转换和编辑 Minecraft 世界",
+        "link": "https://www.universalminecraftconverter.com/"
+      },
+      {
+        "name": "OPENNBS",
+        "abstract": "开源nbs音乐编辑，Minecraft Note Block Studio的一个开源延续，具有令人兴奋的新功能!",
+        "link": "https://opennbs.org/"
+      },
+      {
+        "name": "Minecraft 命令行客户端",
+        "abstract": "Minecraft虚拟玩家(Fake Player)客户端",
+        "link": "https://mccteam.github.io/l10n/zh-Hans/"
+      },
+      {
+        "name": "Iris Shaders 开源光影模组",
+        "abstract": "新一代的开源光影模组，与Sodium兼容的光影前置模组Iris的官网！",
+        "link": "https://irisshaders.dev/"
+      },
+      {
+        "name": "HAL 联机工具",
+        "abstract": "免费，开放接入，公益的联机模块",
+        "link": "https://hal.xizh.cn/"
+      },
+      {
+        "name": "Chunker",
+        "abstract": "强大的 Minecraft 世界转换器",
+        "link": "https://chunker.app/"
+      },
+      {
+        "name": "Chunky 地图渲染器",
+        "abstract": "Chunky 是一个强大的地图渲染器，可以制作非常精美的游戏渲染图，尤其在制作一些宏大场景的渲染图时十分方便。",
+        "link": "https://chunky.lemaik.de/"
+      },
+      {
+        "name": "BlueMap",
+        "abstract": "一种 Minecraft 映射工具，用于创建 Minecraft 世界的 3D 模型并将其显示在 Web 查看器中。",
+        "link": "https://bluemap.bluecolored.de/"
+      },
+      {
+        "name": "ServerPackCreator",
+        "abstract": "快速轻松地生成您最喜欢的 Minecraft 整合包的服务器包",
+        "link": "https://serverpackcreator.de/#/"
+      },
+      {
+        "name": "World Machine 进阶3D地形生成器",
+        "abstract": "进阶版Minecraft地形编辑器",
+        "link": "https://www.world-machine.com/"
+      },
+      {
+        "name": "Minecraft Server Launcher",
+        "abstract": "易用的MC开服器，我的世界开服器，一键式开服，简单快捷！",
+        "link": "https://www.mslmc.cn/"
+      },
+      {
+        "name": "MineBackup – 存档时光机",
+        "abstract": "强大的存档备份及管理工具，以其丰富的功能和通用性著称",
+        "link": "https://github.com/Leafuke/MineBackup"
+      },
+      {
+        "name": "MCSTools",
+        "abstract": "功能强大的蓝图辅助工具，支持 香草结构 建筑小帮手 建筑投影 创世神,提供分割，转换，方块替换等功能",
+        "link": "https://docs.mcschematic.top/zh/"
+      },
+      {
+        "name": "Blockbench",
+        "abstract": "免费、强大的模型编辑软件！",
+        "link": "https://www.blockbench.net/"
+      },
+      {
+        "name": "OpenFrp 开放映射",
+        "abstract": "免费开放、高效便捷的内网穿透工具",
+        "link": "https://www.openfrp.net/"
+      },
+      {
+        "name": "NatGo 端口映射",
+        "abstract": "免费且不报毒的内网穿透，自主研发的免费内网穿透，和花生壳一样自带软件防火墙，监控系统，已通过各家杀毒软件的认证，并且入驻联想应用商店",
+        "link": "https://www.natgo.cn/"
+      },
+      {
+        "name": "MCSkinn Legacy",
+        "abstract": "适用于 Windows 的现代化 Minecraft 3D 皮肤管理器/编辑器",
+        "link": "https://apps.microsoft.com/detail/9n8sjt329hh1?hl=zh-cn&gl=CN"
+      },
+      {
+        "name": "Mod Manager",
+        "abstract": "一个基于Qt的Minecraft Mod管理器，可以管理、更新与下载Mod。",
+        "link": "https://github.com/kaniol-lck/modmanager"
+      }
+    ],
+    "panel": [
+      {
+        "name": "Serein",
+        "abstract": "新时代极简服务器面板，极简、极强兼容性的新时代面板",
+        "link": "https://serein.cc/"
+      },
+      {
+        "name": "Pterodactyl",
+        "abstract": "强大开源安全免费的游戏面板",
+        "link": "https://pterodactyl.io/"
+      },
+      {
+        "name": "Multicraft",
+        "abstract": "强大的服务器面版",
+        "link": "https://multicraft.org/"
+      },
+      {
+        "name": "MCSManager",
+        "abstract": "优秀的服务端面板，稳定可靠 ，轻量级和开箱即用的 Minecraft 服务端管理面板",
+        "link": "http://mcsmanager.com/"
+      },
+      {
+        "name": "EasilyPanel5",
+        "abstract": "新一代服务器管理工具，跨平台通用游戏服务器管理工具。一个功能强大、易于使用的游戏服务器管理面板，支持 Minecraft服务端下载哦、内网穿透、Java环境管理等功能。",
+        "link": "https://ep.easilymc.fun/"
+      }
+    ],
+    "launcher": [
+      {
+        "name": "HMCL",
+        "abstract": "Hello Minecraft! Launcher 一个强大的MC启动器",
+        "link": "https://hmcl.huangyuhui.net/"
+      },
+      {
+        "name": "PCL2 – Plain Craft Launcher 2 启动器",
+        "abstract": "下载极快的启动器",
+        "link": "https://ifdian.net/p/e5c821a4b1ab11eb879b52540025c377"
+      },
+      {
+        "name": "PCL2 CE - PCL社区版",
+        "abstract": "基于龙腾猫跃 PCL2 构建的社区版本，为 Minecraft 玩家提供最好的游戏体验。",
+        "link": "https://pclce-web.demo.fis.ink/"
+      },
+      {
+        "name": "Multimc",
+        "abstract": "轻松管理 Minecraft 实例。必须使用正版登录的启动器，其优秀的多整合包管理系统，以及合理的更目录设计不同于hmcl的目录，更加便于管理。",
+        "link": "https://multimc.org/"
+      },
+      {
+        "name": "LunarCilent",
+        "abstract": "知名Mod客户端，LunarCilent 是一个一体式的模组包，可用于 Minecraft 的所有版本，通过为您提供所有你最喜欢的模组，配置和装扮，提高你的游戏体验！",
+        "link": "https://www.lunarclient.com/"
+      },
+      {
+        "name": "Feather Client",
+        "abstract": "拥有Forge的pvp客户端",
+        "link": "https://feathermc.com/"
+      },
+      {
+        "name": "LiquidBounce",
+        "abstract": "水影客户端/模组官网",
+        "link": "https://liquidbounce.net/"
+      },
+      {
+        "name": "BakaXL",
+        "abstract": "新一代丧病启动器。BakaXL官方版启动器是一款专门用于快速启动我的世界游戏的启动工具，支持启动后自动加入服务器，联机更方便。同时提供了版本分离和游戏时间统计功能。",
+        "link": "https://www.bakaxl.com/"
+      },
+      {
+        "name": "燕子启动器",
+        "abstract": "一款专注我的世界的游戏启动器",
+        "link": "https://yzgzs.top/yzqdq"
+      },
+      {
+        "name": "FCL - Fold Craft Launcher",
+        "abstract": "Android平台的Java版MC启动器",
+        "link": "https://fcl-team.github.io/index.html"
+      },
+      {
+        "name": "XMCL",
+        "abstract": "一个方便你管理大量的模组、纹理包的的现代化启动器",
+        "link": "https://xmcl.app/"
+      },
+      {
+        "name": "Prism Launcher",
+        "abstract": "开源 Minecraft 启动器，能够管理多个实例、帐户和mod",
+        "link": "https://prismlauncher.org/"
+      },
+      {
+        "name": "Salwyrr Launcher",
+        "abstract": "超强优化客户端启动器",
+        "link": "https://www.salwyrr.com/"
+      },
+      {
+        "name": "HML启动器",
+        "abstract": "(HML启动器)是一个版本高速下载,自带联机等多功能我的世界启动器。",
+        "link": "https://hml.xizh.cn/"
+      },
+      {
+        "name": "FPSMaster",
+        "abstract": "免费，简洁，好用的PVP客户端",
+        "link": "https://fpsmaster.top/"
+      },
+      {
+        "name": "BMCL",
+        "abstract": "bangbang93的Minercaft启动器，也是让你极速下载minecraft文件的发源地！",
+        "link": "https://www.mcbbs.net/thread-137254-1-1.html"
+      },
+      {
+        "name": "LauncherX",
+        "abstract": "功能强大、界面优美的下一代 MineCraft 启动器。",
+        "link": "https://corona.studio/lx"
+      },
+      {
+        "name": "ATLauncher",
+        "abstract": "Minecraft 的 Modpack 启动器",
+        "link": "https://atlauncher.com/"
+      },
+      {
+        "name": "MCServerLauncher 2开服器",
+        "abstract": "MCSL2开服器官网。MCServerLauncher 2（MCSL2）是一个简洁全能易上手的Minecraft服务器启动器，集搭服、开服、资源下载、自研插件系统于一身。",
+        "link": "https://mcsl.com.cn/"
+      },
+      {
+        "name": "Polymerium",
+        "abstract": "使用全新资源管理架构的启动器",
+        "link": "https://github.com/d3ara1n/Polymerium"
+      },
+      {
+        "name": "GDLauncher",
+        "abstract": "GDLauncher 是一款简单但功能强大的 Minecraft 自定义启动器",
+        "link": "https://gdlauncher.com/"
+      },
+      {
+        "name": "Badlion",
+        "abstract": "我的世界知名Mod客户端",
+        "link": "https://www.badlion.net/"
+      },
+      {
+        "name": "Nsiso启动器",
+        "abstract": "一款高效的Minecraft启动器",
+        "link": "https://www.nsiso.com/launcher/index.html"
+      },
+      {
+        "name": "Pojav Launcher",
+        "abstract": "海外知名手机Java启动器。国外持续更新的手机Java启动器 支持模组和少部分光影 全版本 下载文件需正版",
+        "link": "https://github.com/PojavLauncherTeam/PojavLauncher"
+      },
+      {
+        "name": "Bedrock Launcher Lite",
+        "abstract": "一个支持基岩版全版本的我的世界启动器",
+        "link": "https://bedrocklauncher.github.io/"
+      },
+      {
+        "name": "FSM3",
+        "abstract": "C#编写的多功能启动器",
+        "link": "https://fsmlauncher.github.io/"
+      }
+    ],
+    "servers": [
+      {
+        "name": "Bedrock Dedicated Server",
+        "abstract": "官方全特性基岩服务端",
+        "link": "https://www.minecraft.net/download/server/bedrock"
+      },
+      {
+        "name": "Bukkit",
+        "abstract": "创建服务端插件的API",
+        "link": "https://bukkit.org/"
+      },
+      {
+        "name": "Spigot",
+        "abstract": "Bukkit的分支服务端",
+        "link": "https://www.spigotmc.org/"
+      },
+      {
+        "name": "PaperMC",
+        "abstract": "下一代JE服务端，与 Spigot 插件兼容，提供不妥协的性能。",
+        "link": "https://papermc.io/"
+      },
+      {
+        "name": "MohistMC",
+        "abstract": "墨端服务器核心，支持forge和paper",
+        "link": "https://mohistmc.com/"
+      },
+      {
+        "name": "LiteLoader",
+        "abstract": "MC Java版轻量 Mod API",
+        "link": "http://www.liteloader.com/"
+      },
+      {
+        "name": "Forge",
+        "abstract": "老牌模组加载器官网",
+        "link": "https://www.minecraftforge.net/"
+      },
+      {
+        "name": "Fabric",
+        "abstract": "轻量的mod服务端",
+        "link": "https://fabricmc.net/"
+      },
+      {
+        "name": "SpongePowered",
+        "abstract": "终极优化的Java版服务端",
+        "link": "https://www.spongepowered.org/"
+      },
+      {
+        "name": "QuiltMC",
+        "abstract": "Fabric的分支，兼容Fabric模组的新兴加载器",
+        "link": "https://quiltmc.org/"
+      },
+      {
+        "name": "Pufferfish",
+        "abstract": "我的世界高版本服务端核心，paper、purpur的分支",
+        "link": "https://pufferfish.host/downloads"
+      },
+      {
+        "name": "Purpur",
+        "abstract": "paper分支，新奇的服务端",
+        "link": "https://purpurmc.org/"
+      },
+      {
+        "name": "PowerNukkit",
+        "abstract": "Nukkit分支服务端",
+        "link": "https://powernukkit.org/"
+      },
+      {
+        "name": "PMMP",
+        "abstract": "经典的基岩版第三方服务端",
+        "link": "https://pmmp.io/"
+      },
+      {
+        "name": "NeoForged",
+        "abstract": "Forge的新兴分支",
+        "link": "https://neoforged.net/"
+      },
+      {
+        "name": "Nukkit",
+        "abstract": "高性能基岩版服务端",
+        "link": "https://cloudburstmc.org/articles/"
+      },
+      {
+        "name": "Leaves",
+        "abstract": "纯净，专为生电设计。Leaves 是基于 Paper 的 Minecraft 服务端，旨在修复被破坏的原版特性。",
+        "link": "https://leavesmc.org/"
+      },
+      {
+        "name": "LeviLamina",
+        "abstract": "重量级的BDS插件加载器。LeviLamina是一个轻量、模块化和多功能的MCBE官方服务端插件加载器，前身为LiteLoaderBDS。",
+        "link": "https://levilamina.liteldev.com/"
+      },
+      {
+        "name": "Cuberite",
+        "abstract": "一款轻量级、快速且可扩展的游戏服务器",
+        "link": "https://cuberite.org/"
+      },
+      {
+        "name": "Leaf",
+        "abstract": "高性能 Minecraft 服务端核心",
+        "link": "https://www.leafmc.one/zh/"
+      },
+      {
+        "name": "CatServer",
+        "abstract": "一个高性能Bukkit和Forge混合的minecraft服务端",
+        "link": "https://catmc.org/"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Github-Minecraft 话题",
+        "abstract": "Github的Minecraft标签",
+        "link": "https://github.com/topics/minecraft"
+      },
+      {
+        "name": "Minecraft中文下载站",
+        "abstract": "我的世界中文资源下载站",
+        "link": "https://oss.minecraftxz.com/"
+      },
+      {
+        "name": "我的世界中文站",
+        "abstract": "又一个MC中文资源站",
+        "link": "https://www.minecraftzw.com/"
+      },
+      {
+        "name": "ResourcePack",
+        "abstract": "丰富的资源包列表",
+        "link": "https://resourcepack.net/"
+      },
+      {
+        "name": "Planet Minecraft",
+        "abstract": "MC游戏资源分享站",
+        "link": "https://www.planetminecraft.com/"
+      },
+      {
+        "name": "Minecraft Schematics",
+        "abstract": "Minecraft 创世神蓝图文件大全",
+        "link": "https://www.minecraft-schematics.com/"
+      },
+      {
+        "name": "MinecraftYard",
+        "abstract": "Minecraft mod和资源包下载站",
+        "link": "https://www.minecraftyard.com/"
+      },
+      {
+        "name": "MCPEDL",
+        "abstract": "基岩版游戏资源站",
+        "link": "https://mcpedl.com/"
+      },
+      {
+        "name": "MCVersions",
+        "abstract": "Minecraft&Java版全版本jar下载网站",
+        "link": "https://mcversions.net/"
+      },
+      {
+        "name": "CurseForge",
+        "abstract": "Minecraft模组分享站",
+        "link": "https://www.curseforge.com/minecraft/"
+      },
+      {
+        "name": "Texture Packs",
+        "abstract": "丰富的纹理包资源分享站",
+        "link": "https://texture-packs.com/"
+      },
+      {
+        "name": "TITAIKE",
+        "abstract": "整合及翻译国内外基岩版地图",
+        "link": "https://www.titaike.cn/"
+      },
+      {
+        "name": "Redstone Games",
+        "abstract": "Minecraft Java、基岩版。资源包、模组、着色器、数据包",
+        "link": "https://www.redstonegames.com.br/"
+      },
+      {
+        "name": "Resource-Packs",
+        "abstract": "非常强大的材质资源网站！",
+        "link": "https://www.resource-packs.com/"
+      },
+      {
+        "name": "MCModels",
+        "abstract": "高质量模型资源网站",
+        "link": "https://mcmodels.net/"
+      },
+      {
+        "name": "Modpack Index",
+        "abstract": "一个简约强大的模组包索引网站",
+        "link": "https://www.modpackindex.com/"
+      },
+      {
+        "name": "Minecraft Polska",
+        "abstract": "具有 Minecraft 资源和新闻的国外站点",
+        "link": "https://minecraft.org.pl/"
+      },
+      {
+        "name": "Minecraft Shaders",
+        "abstract": "是一个海外着色器评论、教程、更新和下载站点",
+        "link": "https://minecraftshader.com/"
+      },
+      {
+        "name": "Minecraft for Windows 版本库",
+        "abstract": "Minecraft Windows 基岩版全版本下载站",
+        "link": "https://www.mcappx.com/"
+      },
+      {
+        "name": "MCPE-Planet",
+        "abstract": "一个海外MCPE资源站",
+        "link": "https://mcpe-planet.com/"
+      },
+      {
+        "name": "Modrinth",
+        "abstract": "Java版模组资源分享站",
+        "link": "https://modrinth.com/"
+      },
+      {
+        "name": "MinecraftCapes",
+        "abstract": "免费披风斗篷站。在游戏中穿任何你想要的斗篷和披风",
+        "link": "https://minecraftcapes.net/"
+      },
+      {
+        "name": "投影工坊",
+        "abstract": "里面有很多生电使用的机器",
+        "link": "https://www.mcimg.com/"
+      },
+      {
+        "name": "For-Minecraft",
+        "abstract": "一个海外MC资源站",
+        "link": "https://for-minecraft.com/"
+      },
+      {
+        "name": "Block Models",
+        "abstract": "一个可以上传，分享和推广你的Minecraft方块模型的网站。",
+        "link": "https://blockmodels.com/"
+      },
+      {
+        "name": "BolckMinecraft",
+        "abstract": "MCJE资源分享网站",
+        "link": "https://www.blockminecraft.com/"
+      },
+      {
+        "name": "MC藏宝阁",
+        "abstract": "b站up开发的资源网站",
+        "link": "https://mcbank.charhoo.cn/"
+      },
+      {
+        "name": "MGC中文图形站",
+        "abstract": "共同探索MC图形学的无限可能。",
+        "link": "https://minegraph.cn/"
+      },
+      {
+        "name": "AXDA 插件平台",
+        "abstract": "Nukkit插件平台，致敬传奇插件站ZXDA",
+        "link": "https://axda.net/"
+      },
+      {
+        "name": "公共蓝图库",
+        "abstract": "存储公共蓝图，支持机械动力，建筑小帮手，投影蓝图，创世神蓝图，mcSchematic",
+        "link": "https://www.mcschematic.top/"
+      },
+      {
+        "name": "红石中继站",
+        "abstract": "一个简洁轻快的Minecraft资源社区",
+        "link": "https://www.mczwlt.net/"
+      },
+      {
+        "name": "我的世界下载站",
+        "abstract": "最全面的Minecraft资源站（自称）。",
+        "link": "https://www.9minecraft.cn/"
+      },
+      {
+        "name": "Luna HD",
+        "abstract": "Luna HD资源包官网",
+        "link": "https://www.lunahd.com/"
+      },
+      {
+        "name": "像素茶艺地图站",
+        "abstract": "简洁易用的MC地图资源站",
+        "link": "https://pixelmap.minegraph.cn/"
+      },
+      {
+        "name": "Reden",
+        "abstract": "在线生成世吞以及其他各类机器",
+        "link": "https://redenmc.com/"
+      },
+      {
+        "name": "AtomResource",
+        "abstract": "一个轻量的资源下载站",
+        "link": "https://res.nullatom.com/"
+      },
+      {
+        "name": "AquaSource - 甘泉",
+        "abstract": "Minecraft版本库、联机软件，社区资源网页端",
+        "link": "https://mc.mcscode.com/"
+      },
+      {
+        "name": "BBSMC",
+        "abstract": "我的世界资源社区",
+        "link": "https://bbsmc.net/"
+      },
+      {
+        "name": "9Minecraft",
+        "abstract": "国外的Minecraft免费资源网站",
+        "link": "https://www.9minecraft.cn/"
+      },
+      {
+        "name": "Resourepacks24",
+        "abstract": "Minecraft材质包",
+        "link": "https://resourepacks24.de/"
+      },
+      {
+        "name": "Geyser 间歇泉",
+        "abstract": "允许 Minecraft 基岩版中的客户端加入到 Minecraft Java版服务器中",
+        "link": "https://geysermc.org/"
+      },
+      {
+        "name": "Minecraft 版本库",
+        "abstract": "Minecraft 基岩版全版本下载站",
+        "link": "https://zihao.fengqingwu.top/"
+      }
+    ],
+    "studio": [
+      {
+        "name": "",
+        "abstract": "",
+        "link": ""
+      }
+    ],
+    "hacker-client": [
+      {
+        "icon": "https://liquidbounce.net/images/logos/logo.svg",
+        "name": "LiquidBounce Client",
+        "abstract": "水影客户端官网",
+        "link": "https://liquidbounce.net/"
+      },
+      {
+        "icon": "https://images.wurstclient.net/_media/logo/wurst_253x64_ll.webp",
+        "name": "Wurst Client",
+        "abstract": "Wurst客户端官网",
+        "link": "https://wurstclient.net/"
+      },
+      {
+        "icon": "https://meteorclient.com/icon.png",
+        "name": "Meteor Client",
+        "abstract": "彗星客户端官网",
+        "link": "https://meteorclient.com/"
+      },
+      {
+        "icon": "https://www.futureclient.net/logo.svg",
+        "name": "Future Client",
+        "abstract": "Future客户端官网",
+        "link": "https://www.futureclient.net/"
+      },
+      {
+        "name": "Mio Client",
+        "abstract": "Mio客户端官网",
+        "link": "https://mioclient.me/"
+      },
+      {
+        "icon": "https://inertiaclient.com/resources/inertiatextatlas.svg",
+        "name": "Inertia Client (WWE Client)",
+        "abstract": "Ineria客户端官网",
+        "link": "https://inertiaclient.com/"
+      },
+      {
+        "name": "Impact Client",
+        "abstract": "Impact客户端官网",
+        "link": "https://impactclient.net/"
+      },
+      {
+        "name": "Envy Client",
+        "abstract": "Envy客户端官网",
+        "link": "https://envyclient.com/"
+      },
+      {
+        "icon": "/MinecraftHub/img/mc-nav-11009.png",
+        "name": "Vape Client",
+        "abstract": "Vape客户端官网",
+        "link": "https://Vape.gg/"
+      },
+      {
+        "name": "Vapu Client",
+        "abstract": "Vapu客户端官网",
+        "link": "https://getvapu.today/"
+      },
+      {
+        "name": "Flux Client By Margele",
+        "abstract": "Flux客户端官网",
+        "link": "https://flux.today/"
+      },
+      {
+        "name": "Astolfo Client",
+        "abstract": "Astolfo客客户端官网",
+        "link": "https://astolfo.lgbt/"
+      },
+      {
+        "name": "Power - PowerX Client",
+        "abstract": "PowerX客户端官网",
+        "link": "https://powerclient.cn/"
+      },
+      {
+        "name": "Rise Client",
+        "abstract": "Rise客户端官网",
+        "link": "https://riseclient.com/"
+      },
+      {
+        "name": "FDP Client",
+        "abstract": "FDP客户端官网",
+        "link": "https://fdpinfo.github.io/next/"
+      },
+      {
+        "name": "Naven Client",
+        "abstract": "Naven客户端官网",
+        "link": "https://naven.today/"
+      },
+      {
+        "name": "NightX Client",
+        "abstract": "NightX客户端官网",
+        "link": "https://github.com/Aspw-w/NightX-Client"
+      },
+      {
+        "name": "MoonX Client",
+        "abstract": "MoonX客户端官网",
+        "link": "https://moonx.gg/"
+      },
+      {
+        "name": "Opai Client",
+        "abstract": "Opai客户端官网",
+        "link": "https://opai.today/"
+      },
+      {
+        "name": "LeaveH Client",
+        "abstract": "LeaveH客户端官网",
+        "link": "https://getleave.org/"
+      }
+    ],
+    "server-portal":[
+      {
+        "name": "MCJPG组织",
+        "icon": "https://mcjpg.org/logo.png",
+        "abstract": "MCJPG组织官网，一个致力于Minecraft技术交流和服务器宣传的组织，无论你是玩家还是服主，这里都是优秀的交流社区",
+        "link": "https://mcjpg.org/"
+      }
+    ],
+    "server": [
+      {
+        "name": "此列表后续将移除",
+        "abstract": "后续整理到服务器列表分页",
+        "link": "null"
+      },
+      {
+        "name": "Hypixel",
+        "abstract": "全球最大的Minecraft小游戏服务器",
+        "link": "https://hypixel.net/"
+      },
+      {
+        "name": "布吉岛",
+        "abstract": "布吉岛是一个充满创意与欢乐的Minecraft服务器，成立于2020年。 我们致力于为玩家提供最优质的游戏体验，打造公平、有趣的游戏环境。",
+        "link": "https://mcbjd.net/"
+      },
+      {
+        "name": "2B2T",
+        "abstract": "古老的无政府主义Minecraft服务器",
+        "link": "https://www.2b2t.org/"
+      }
+    ]
+  }
+}

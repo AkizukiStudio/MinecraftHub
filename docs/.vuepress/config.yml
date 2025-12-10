@@ -1,0 +1,14 @@
+# .vuepress/config.yml
+title: AkizukiStudio
+description: awa
+base: /MinecraftHub/
+themeConfig: 
+  logo: /img/logo.svg
+  nav:
+    - text: 首页
+      link: /home/
+    - text: 资源导航
+      link: /MC/Nav/
+    - text: 关于我们
+      link: /about/
+  displayAllHeaders: true
