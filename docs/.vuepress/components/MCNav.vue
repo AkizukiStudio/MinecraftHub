@@ -75,7 +75,7 @@
                   />
                   <img 
                     v-else-if="!item.icon" 
-                    src="/MinecraftHub/img/logo.svg" 
+                    src="/api/img/logo.svg" 
                     :alt="'默认图标'"
                     class="item-icon default-icon"
                   />
@@ -225,7 +225,7 @@ item && item.name && item.link && item.name.trim() !== '' && item.link.trim() !=
     // 处理图标加载错误
     handleIconError(event) {
       console.warn('图标加载失败:', event.target.src)
-      event.target.src = '/MinecraftHub/img/logo.svg'
+      event.target.src = '/api/img/logo.svg'
       event.target.classList.add('default-icon')
       event.target.classList.remove('loading')
     },
@@ -301,7 +301,7 @@ item && item.name && item.link && item.name.trim() !== '' && item.link.trim() !=
         this.loading = true
         this.error = null
         
-        const response = await fetch('/MinecraftHub/manifes/McNav.json')
+        const response = await fetch('/api/data/McNav.json')
 if (!response.ok) {
 throw new Error(`HTTP错误: ${response.status}`)
         }
@@ -411,7 +411,7 @@ return text
         'studio': '工作室',
         'hacker-client': '黑客端',
         'server-portal': '服务器门户',
-'server': '服务器'
+        'server': '服务器'
       }
       return nameMap[categoryName] || categoryName
     },
@@ -787,10 +787,10 @@ $menu-hover = #2a2a2a
   display flex
   justify-content center
   align-items center
-gap 20px
+  gap 20px
   margin-top 30px
   padding 20px
-background $menu-bg
+  background $menu-bg
   border-radius 8px
   border 1px solid $menu-border
 

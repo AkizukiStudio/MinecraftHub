@@ -22,10 +22,11 @@
 
 
 ### 链接测试
+[Api](/api/)
 
 [Home (一坨)](/home)
 
-[Minecraft Nav (待完善)](/Mc/Nav/)
+[Minecraft Nav](/Mc/Nav/)
 
 [Minecraft Server List (开发中)](/Mc/Server/)
 

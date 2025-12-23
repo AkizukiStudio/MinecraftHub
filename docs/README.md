@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.svg
+heroImage: /api/img/logo.svg
 heroText: Minecraft Hub
 tagline: Minecraft资源检索站
 actionText: 进入首页 →

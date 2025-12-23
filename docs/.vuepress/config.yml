@@ -1,9 +1,9 @@
 # .vuepress/config.yml
-title: AkizukiStudio
+title: MinecraftHub
 description: awa
-base: /MinecraftHub/
+base: /
 themeConfig: 
-  logo: /img/logo.svg
+  logo: /api/img/logo.svg
   nav:
     - text: 首页
       link: /home/
@@ -11,4 +11,6 @@ themeConfig:
       link: /MC/Nav/
     - text: 关于我们
       link: /about/
+    - text: GitHub
+      link: https://github.com/AkizukiStudio/MinecraftHub/
   displayAllHeaders: true

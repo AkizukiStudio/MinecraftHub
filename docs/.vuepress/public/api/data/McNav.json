@@ -2,31 +2,31 @@
   "mc-nav": {
     "official": [
       {
-        "icon": "/MinecraftHub/img/mc-nav-1001.png",
+        "icon": "/api/img/mc-nav-1001.png",
         "name": "Minecraft",
         "abstract": "Minecraft我的世界官方网站",
         "link": "https://www.minecraft.net/"
       },
       {
-        "icon": "/MinecraftHub/img/mc-nav-1002.jpg",
+        "icon": "/api/img/mc-nav-1002.jpg",
         "name": "网易我的世界",
         "abstract": "网易我的世界官方网站",
         "link": "https://mc.163.com/"
       },
       {
-        "icon": "/MinecraftHub/img/mc-nav-1003.png",
+        "icon": "/api/img/mc-nav-1003.png",
         "name": "Minecraft Classic",
         "abstract": "Cassic经典原始网页版Minecraft在线游戏",
         "link": "https://classic.minecraft.net/"
       },
       {
-        "icon": "/MinecraftHub/img/mc-nav-1004.png",
+        "icon": "/api/img/mc-nav-1004.png",
         "name": "Mojang Jira",
         "abstract": "Mojang官方Bug反馈/提交建议",
         "link": "https://bugs.mojang.com/"
       },
       {
-        "icon": "/MinecraftHub/img/mc-nav-1005.png",
+        "icon": "/api/img/mc-nav-1005.png",
         "name": "FindMCServer",
         "abstract": "官方Minecraft服务器列表",
         "link": "https://findmcserver.com/"
@@ -41,7 +41,7 @@
     "community": [
       {
         "name": "MineBBS",
-        "icon": "/MinecraftHub/img/mc-nav-2001.jpg",
+        "icon": "/api/img/mc-nav-2001.jpg",
         "abstract": "我的世界中文论坛",
         "link": "https://www.minebbs.com/"
       },
@@ -1140,7 +1140,7 @@
         "link": "https://envyclient.com/"
       },
       {
-        "icon": "/MinecraftHub/img/mc-nav-11009.png",
+        "icon": "/api/img/mc-nav-11009.png",
         "name": "Vape Client",
         "abstract": "Vape客户端官网",
         "link": "https://Vape.gg/"
