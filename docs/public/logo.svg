@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs>
+<linearGradient id="g" x1="32" y1="211.14" x2="176" y2="128" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0bbafb"/>
+<stop offset="1" stop-color="#4285ec"/>
+</linearGradient>
+<clipPath id="c">
+<polygon fill="none" points="224 211.14 86.86 211.14 100.58 187.38 182.86 187.38 169.14 163.63 59.44 163.63 128 44.86 169.14 116.12 141.72 116.12 128 92.37 100.58 139.88 182.86 139.88 224 211.14"/>
+</clipPath>
+<clipPath id="d">
+<polygon fill="none" points="73.14 187.38 59.44 211.14 32 211.14 45.72 187.38 73.14 187.38"/>
+</clipPath>
+</defs>
+<g clip-path="url(#c)">
+<polygon fill="url(#g)" points="128 44.86 32 211.14 224 211.14 128 44.86"/>
+</g>
+<g clip-path="url(#d)">
+<polygon fill="url(#g)" points="128 44.86 32 211.14 224 211.14 128 44.86"/>
+</g>
+</svg>
