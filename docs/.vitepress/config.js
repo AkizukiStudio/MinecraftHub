@@ -4,10 +4,11 @@ export default {
   lang: "zh_CN",
   title: "MinecraftHub",
   description: "MC资源搜索站",
+  ignoreDeadLinks: true,
   themeConfig: {
     logo: "/logo.svg",
     search: {
-      provider: 'local',
+      //provider: 'local',
       // 添加对动态内容的搜索支持
       detailedView: true,
       // 自定义搜索逻辑
@@ -19,7 +20,7 @@ export default {
     nav: [
       { text: "首页", link: "/" },
       //{ text: "站点规则", link: "/rules/"},
-      { text: "资源搜索", link: "/mc/search/" },
+      //{ text: "资源搜索", link: "/mc/search/" },
       { text: "MC导航", link: "/mc/nav/" },
       { text: "MC下载", link: "/mc/download/" },
       { text: "关于团队", link: "/team/" },

@@ -7,7 +7,7 @@ const props = defineProps<{
   items: NavLink[]
 }>()
 
-// 改进的 slugify 函数，支持中文标题
+// slugify 函数，支持中文标题
 const slugify = (text: string): string => {
   return text
     .toString()
@@ -28,12 +28,12 @@ const formatTitle = () => {
 </script>
 
 <template>
-  <div class="m-nav-section">
+  <div class="mc-nav-section">
     <h2 v-if="title" :id="formatTitle()" tabindex="-1">
       {{ title }}
       <a class="header-anchor" :href="`#${formatTitle()}`" aria-hidden="true"></a>
     </h2>
-    <div class="m-nav-links">
+    <div class="mc-nav-links">
       <McNavLink
         v-for="{ icon, title, desc, link } in items"
         :key="link"
@@ -47,11 +47,11 @@ const formatTitle = () => {
 </template>
 
 <style lang="scss" scoped>
-.m-nav-section {
+.mc-nav-section {
   margin-bottom: 2rem;
 }
 
-.m-nav-links {
+.mc-nav-links {
   --m-nav-gap: 16px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -63,14 +63,14 @@ const formatTitle = () => {
 }
 
 @media (max-width: 768px) {
-  .m-nav-links {
+  .mc-nav-links {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     --m-nav-gap: 12px;
   }
 }
 
 @media (max-width: 480px) {
-  .m-nav-links {
+  .mc-nav-links {
     grid-template-columns: 1fr;
     --m-nav-gap: 8px;
   }

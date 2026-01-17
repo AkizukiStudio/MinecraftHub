@@ -64,7 +64,7 @@ const getLinkProps = () => {
 </script>
 
 <template>
-  <a class="m-nav-link" v-bind="getLinkProps()">
+  <a class="mc-nav-link" v-bind="getLinkProps()">
     <article class="box">
       <div class="box-header">
         <div v-if="getSvg()" class="icon" v-html="getSvg()"></div>
@@ -83,13 +83,13 @@ const getLinkProps = () => {
 </template>
 
 <style lang="scss" scoped>
-.m-nav-link {
-  --m-nav-icon-box-size: 48px;
-  --m-nav-icon-size: 28px;
-  --m-nav-box-gap: 16px;
+.mc-nav-link {
+  --mc-nav-icon-box-size: 48px;
+  --mc-nav-icon-size: 28px;
+  --mc-nav-box-gap: 16px;
 
   display: block;
-  border: 1px solid var(--vp-c-border);
+  border: 2px solid var(--vp-c-border);
   border-radius: 12px;
   height: 100%;
   text-decoration: none;
@@ -101,12 +101,16 @@ const getLinkProps = () => {
     box-shadow: var(--vp-shadow-3);
     border-color: var(--vp-c-brand);
     background-color: var(--vp-c-bg);
+    .icon {
+      border-color: var(--vp-c-brand);
+      transition: all 0.25s ease;
+    }
   }
 
   .box {
     display: flex;
     flex-direction: column;
-    padding: var(--m-nav-box-gap);
+    padding: var(--mc-nav-box-gap);
     height: 100%;
     color: var(--vp-c-text-1);
     
@@ -122,23 +126,26 @@ const getLinkProps = () => {
     justify-content: center;
     align-items: center;
     margin-right: 12px;
-    border-radius: 8px;
-    width: var(--m-nav-icon-box-size);
-    height: var(--m-nav-icon-box-size);
-    font-size: var(--m-nav-icon-size);
-    background: linear-gradient(135deg, var(--vp-c-brand-soft), var(--vp-c-brand));
+    border-radius: 10px;
+    width: var(--mc-nav-icon-box-size);
+    height: var(--mc-nav-icon-box-size);
+    font-size: var(--mc-nav-icon-size);
+    border: 2px solid var(--vp-c-border);
+    /* background: linear-gradient(35deg, #0bbafb, #4285ec); */
+    /* background: linear-gradient(135deg, var(--vp-c-brand-soft), var(--vp-c-brand)); */
     color: white;
+      transition: all 0.25s ease;
     
     :deep(svg) {
-      width: var(--m-nav-icon-size);
-      height: var(--m-nav-icon-size);
+      width: var(--mc-nav-icon-size);
+      height: var(--mc-nav-icon-size);
       fill: currentColor;
     }
     
     :deep(img) {
       border-radius: 6px;
-      width: var(--m-nav-icon-size);
-      height: var(--m-nav-icon-size);
+      width: var(--mc-nav-icon-size);
+      height: var(--mc-nav-icon-size);
       object-fit: cover;
     }
   }
@@ -170,9 +177,9 @@ const getLinkProps = () => {
 
 @media (max-width: 768px) {
   .m-nav-link {
-    --m-nav-icon-box-size: 40px;
-    --m-nav-icon-size: 24px;
-    --m-nav-box-gap: 12px;
+    --mc-nav-icon-box-size: 40px;
+    --mc-nav-icon-size: 24px;
+    --mc-nav-box-gap: 12px;
 
     .title {
       font-size: 16px;
@@ -186,9 +193,9 @@ const getLinkProps = () => {
 
 @media (max-width: 480px) {
   .m-nav-link {
-    --m-nav-icon-box-size: 36px;
-    --m-nav-icon-size: 20px;
-    --m-nav-box-gap: 10px;
+    --mc-nav-icon-box-size: 36px;
+    --mc-nav-icon-size: 20px;
+    --mc-nav-box-gap: 10px;
 
     .title {
       font-size: 15px;

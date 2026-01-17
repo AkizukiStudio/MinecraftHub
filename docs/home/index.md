@@ -15,6 +15,6 @@ AkizukiStudio 是一个热爱Minecraft的团队<br />
 <br />
 想从哪里开始？<br />
 
-| [Minecraft资源导航](../MC/Nav/)  
+| [Minecraft资源导航](../mc/nav/)  
 | [下载MinecraftBE(跳转至mc.minebbs)](https://mc.minebbs.com/)  
 | [Minecraft Wiki](https://zh.minecraft.wiki/)  
