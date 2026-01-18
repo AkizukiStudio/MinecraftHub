@@ -1,0 +1,15 @@
+# 图片文件缓存配置 - 24小时缓存
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 24 hours"
+    ExpiresByType image/jpeg "access plus 24 hours"
+    ExpiresByType image/gif "access plus 24 hours"
+    ExpiresByType image/png "access plus 24 hours"
+    ExpiresByType image/svg+xml "access plus 24 hours"
+</IfModule>
+
+<IfModule mod_headers.c>
+    <FilesMatch "\.(jpg|jpeg|png|gif|svg|webp|ico|bmp)$">
+        Header set Cache-Control "public, max-age=86400"
+    </FilesMatch>
+</IfModule>

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import McNavLink from './McNavLink.vue'
-import type { NavLink } from '@/.vitepress/theme/types'
+import type { NavLink } from '@Theme/types'
 
 const props = defineProps<{
   title: string

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { withBase } from 'vitepress'
 
-import type { NavLink } from '@/.vitepress/theme/types'
+import type { NavLink } from '@Theme/types'
 
 const props = defineProps<{
   icon?: NavLink['icon']
@@ -64,7 +64,12 @@ const getLinkProps = () => {
 </script>
 
 <template>
-  <a class="mc-nav-link" v-bind="getLinkProps()">
+  <a 
+    class="mc-nav-link"
+    v-bind="getLinkProps()"
+    :data-title="title"
+    :data-description="desc"
+  >
     <article class="box">
       <div class="box-header">
         <div v-if="getSvg()" class="icon" v-html="getSvg()"></div>
@@ -101,6 +106,7 @@ const getLinkProps = () => {
     box-shadow: var(--vp-shadow-3);
     border-color: var(--vp-c-brand);
     background-color: var(--vp-c-bg);
+
     .icon {
       border-color: var(--vp-c-brand);
       transition: all 0.25s ease;

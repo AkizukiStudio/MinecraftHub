@@ -5,8 +5,33 @@ export default {
   title: "MinecraftHub",
   description: "MC资源搜索站",
   ignoreDeadLinks: true,
+  // 添加缓存配置
+  vite: {
+    build: {
+      assetsInlineLimit: 4096, // 4KB以下的文件转为base64
+      rollupOptions: {
+        output: {
+          // 为图片文件设置缓存头
+          assetFileNames: (assetInfo) => {
+            const extType = assetInfo.name.split('.').pop()
+            if (/png|jpe?g|svg|gif|tiff|bmp|ico/i.test(extType)) {
+              return `assets/images/[name]-[hash][extname]`
+            }
+            return `assets/[name]-[hash][extname]`
+          }
+        }
+      }
+    },
+    // 开发服务器配置
+    server: {
+      headers: {
+        // 为图片文件设置缓存控制头
+        'Cache-Control': 'public, max-age=86400' // 24小时缓存
+      }
+    }
+  },
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/mchub.svg",
     search: {
       //provider: 'local',
       // 添加对动态内容的搜索支持
@@ -54,6 +79,13 @@ export default {
     template: {
       compilerOptions: {
         isCustomElement: (tag) => tag.includes('-')
+      }
+    },
+    css: {
+      preprocessorOptions: {
+        scss: {
+          charset: false
+        }
       }
     }
   }

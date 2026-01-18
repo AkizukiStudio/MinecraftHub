@@ -1,5 +1,6 @@
 ---
 layout: home
+description: MinecraftHub | MCHUB | 一个收集和存储MC资源链接的社区资源库
 
 hero:
   name: MCHUB

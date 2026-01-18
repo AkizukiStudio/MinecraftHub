@@ -1,20 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 740">
 <defs>
-<linearGradient id="g" x1="32" y1="211.14" x2="176" y2="128" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#0bbafb"/>
-<stop offset="1" stop-color="#4285ec"/>
+<linearGradient id="a" x1="-23.14" y1="645.28" x2="763.14" y2="94.72" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ccc"/>
+<stop offset="1" stop-color="#333"/>
 </linearGradient>
-<clipPath id="c">
-<polygon fill="none" points="224 211.14 86.86 211.14 100.58 187.38 182.86 187.38 169.14 163.63 59.44 163.63 128 44.86 169.14 116.12 141.72 116.12 128 92.37 100.58 139.88 182.86 139.88 224 211.14"/>
-</clipPath>
-<clipPath id="d">
-<polygon fill="none" points="73.14 187.38 59.44 211.14 32 211.14 45.72 187.38 73.14 187.38"/>
-</clipPath>
+<linearGradient id="b" x1="128.45" y1="518.18" x2="633.6" y2="164.47" href="#a"/>
 </defs>
-<g clip-path="url(#c)">
-<polygon fill="url(#g)" points="128 44.86 32 211.14 224 211.14 128 44.86"/>
-</g>
-<g clip-path="url(#d)">
-<polygon fill="url(#g)" points="128 44.86 32 211.14 224 211.14 128 44.86"/>
-</g>
+<path fill="url(#a)" d="M650 740H90C40.37 740 0 699.63 0 650V90C0 40.37 40.37 0 90 0h560c49.63 0 90 40.37 90 90v560c0 49.63-40.37 90-90 90zM90 20c-38.6 0-70 31.4-70 70v560c0 38.6 31.4 70 70 70h560c38.6 0 70-31.4 70-70V90c0-38.6-31.4-70-70-70H90z"/>
+<path fill="url(#b)" d="M599.34 128.91h-144c-9.92 0-18 8.08-18 18v142h-140v-142c0-9.92-8.07-18-18-18H135.34c-9.92 0-18 8.08-18 18v144c0 9.93 8.08 18 18 18h142v60h-62c-9.92 0-18 8.08-18 18v224c0 9.93 8.08 18 18 18h64c9.93 0 18-8.07 18-18v-62h140v62c0 9.93 8.08 18 18 18h64c9.93 0 18-8.07 18-18v-224c0-9.92-8.07-18-18-18h-62v-60h142c9.93 0 18-8.07 18-18v-144c0-9.92-8.07-18-18-18zM137.34 288.91V148.91h140v140h-140zm380 100v220h-60v-62c0-9.92-8.07-18-18-18h-144c-9.92 0-18 8.08-18 18v62h-60v-220h62c9.93 0 18-8.07 18-18v-62h140v62c0 9.93 8.08 18 18 18h62zm80-100h-140V148.91h140v140z"/>
 </svg>
